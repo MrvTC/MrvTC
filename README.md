@@ -1,4 +1,4 @@
-![MasterHead](https://www.codewithmmak.com/wp-content/uploads/2022/12/Back-End-Test-Automation.jpg)
+
 <h1 align="center">Hi 👋, I'm Merve</h1>
 <h3 align="center">A passionate Software Test Engineer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
