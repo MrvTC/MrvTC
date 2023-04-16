@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **freelance**
 
-- 🌱 I’m currently learning **API**
+- 🌱 I’m currently learning **APPIUM**
 
 - 💬 Ask me about **Selenium,TestNG,Cucumber,JUNIT,Selenium Grid**
 
